@@ -8,6 +8,7 @@ This is a list:
 * Item 1 
 * Item 2
 * Third item 
+* Fourth item added directly from GitHub 
 
 ## This is another subheading 
 
